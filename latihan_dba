@@ -2,3 +2,5 @@ create database rs;
 
 create table;
 
+create trigger;
+
